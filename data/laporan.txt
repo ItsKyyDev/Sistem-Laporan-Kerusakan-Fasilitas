@@ -1,0 +1,2 @@
+LP0001|07/06/2026|Mr A|Gedung D4|B-303|Kursi|Furniture|Sedang|Kursi rusak, perlu diganti|Selesai|LP0001.jpg
+LP0002|07/06/2026|Mr B|SAW|SAW-09.08|AC|Elektronik|Penting|AC di ruangan rusak, sehingga perlu diperbaiki|Selesai|LP0002.png
